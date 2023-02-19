@@ -1,16 +1,21 @@
-# node-js-getting-started
+# Geometry Brawl
+A browser-based 2D multiplayer shooting game  
+Group project for CMPT 276: Introduction to Software Engineering
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
-
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+## Features:
+- [x] Authentication and Login
+- [x] Cosmetics store
+- [x] Hiscore leaderboard
+- [x] Integrated Weather API to dictate in-game wind
+- [x] 
 
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone https://github.com/heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
+$ git clone https://github.com/GauravSModi/CircleWars.git
+$ cd circlewars
 $ npm install
 $ npm start
 ```

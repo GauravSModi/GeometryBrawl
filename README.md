@@ -1,17 +1,18 @@
 # Geometry Brawl
-A browser-based 2D multiplayer shooting game  
-Group project for CMPT 276: Introduction to Software Engineering
+A browser-based 2D real-time multiplayer shooting game.  
+Created using Node.js, PostgreSQL, and matter.js.  
+Group project for CMPT 276: Introduction to Software Engineering.  
 
 ## Features:
 - [x] Authentication and Login
 - [x] Cosmetics store
 - [x] Hiscore leaderboard
+- [x] XP-based progression system
 - [x] Integrated Weather API to dictate in-game wind
-- [x] 
 
 ## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
+Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
 $ git clone https://github.com/GauravSModi/CircleWars.git
@@ -20,29 +21,7 @@ $ npm install
 $ npm start
 ```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
-
-## Deploying to Heroku
-
-```
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-or
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-## Documentation
-
-For more information about using Node.js on Heroku, see these Dev Center articles:
-
-- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
-
+The app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## References
 

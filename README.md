@@ -4,11 +4,11 @@ Created using Node.js, PostgreSQL, and matter.js.
 Group project for CMPT 276: Introduction to Software Engineering.  
 
 ## Features:
-- [x] Authentication and Login
-- [x] Cosmetics store
-- [x] Hiscore leaderboard
-- [x] XP-based progression system
-- [x] Integrated Weather API to dictate in-game wind
+* Authentication and Login
+* Cosmetics store
+* Hiscore leaderboard
+* XP-based progression system
+* Integrated Weather API to dictate in-game wind
 
 ## Running Locally
 
